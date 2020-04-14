@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Requirements
 Nodejs
+
 Package manager (npm comes with node)
 
 ## Getting Up & Running
