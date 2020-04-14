@@ -1,13 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Requirements
+Nodejs
+Package manager (npm comes with node)
 
 ## Getting Up & Running
 
 Clone Project
 
-From withing project directory run `yarn` or `npm install` to install packages
+From within project directory run `yarn` or `npm install` to install packages
 
-Run `yarn start` or `npm start` to run application on localhost
+Run `yarn start` or `npm start` to run application on localhost port 3000 (default)
 
 ## Available Scripts
 
